@@ -1,3 +1,3 @@
-# ApplicationEngineeringDev_Final_NGOProeject
+# ApplicationEngineeringDev_Final_NGOProject
 An NGO Java Swing application built with the DB4 object database to provide free medical treatment for homeless people by organizing fundraiser events. The project followed numerous work-request models for implementing the features. To make the analysis visually commendable and lucid, JFreeChart and JxBrowser to find the location with the most number of affected people in Google Maps were used. Initially, the NGO sets up Health Camps with the volunteers registered to gather the list of homeless people. The hospitals tied up with the NGO provide an accurate fee for the total treatment. This cost of treatment is kept as a target for the fundraiser events. The hospitals also have a healthcare workflow implemented.
 
